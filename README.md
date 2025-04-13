@@ -52,17 +52,6 @@ npm start
 
 The application will open in your default browser at [http://localhost:3000](http://localhost:3000).
 
-## Customization
-
-### Personalization
-- Edit personal information in each component to reflect your details
-- Add your profile picture in the Hero and About components
-- Modify skills and skill levels in the Skills component
-- Add your own projects in the Projects component
-- Update contact information in the Contact component
-
-### Styling
-- Customize colors, fonts, and other styles in the respective CSS files
 
 ## Deployment
 
